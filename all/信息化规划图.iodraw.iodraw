@@ -10,7 +10,7 @@
         <mxCell id="49bdpeGL7VcyLjYFeyFg-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ea3e6;sketch=1;gradientColor=#66B2FF;" parent="1" vertex="1">
           <mxGeometry x="50" y="220" width="30" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="49bdpeGL7VcyLjYFeyFg-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="49bdpeGL7VcyLjYFeyFg-2" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="124" y="200" width="666" height="230" as="geometry" />
         </mxCell>
         <mxCell id="49bdpeGL7VcyLjYFeyFg-3" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 21px;&quot;&gt;决策支持层&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
