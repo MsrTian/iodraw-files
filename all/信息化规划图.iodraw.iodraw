@@ -16,7 +16,7 @@
         <mxCell id="49bdpeGL7VcyLjYFeyFg-3" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 21px;&quot;&gt;决策支持层&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="390" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gDAouk_Z01a6E5qtVs2k-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="gDAouk_Z01a6E5qtVs2k-2" value="决策支持平台 (BI)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="140" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
