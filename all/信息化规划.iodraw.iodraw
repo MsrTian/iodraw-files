@@ -28,32 +28,35 @@
         <mxCell id="CMA6m18qqvtzgCDZduLw-11" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot; face=&quot;微软雅黑&quot;&gt;智能制造&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=17;fontStyle=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="15" y="590" width="95" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CMA6m18qqvtzgCDZduLw-12" value="" style="whiteSpace=wrap;html=1;fontSize=54;fillColor=#ffffff;strokeColor=default;fontColor=#004D99;gradientColor=none;fontStyle=1;rounded=0;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="140" y="260" width="830" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="CMA6m18qqvtzgCDZduLw-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;决策管控层&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="250" width="150" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="CMA6m18qqvtzgCDZduLw-16" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23b7cffe%3Bmovable%3D1%3Bresizable%3D1%3Brotatable%3D1%3Bdeletable%3D1%3Beditable%3D1%3Blocked%3D0%3Bconnectable%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22660%22%20y%3D%22180%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="840" width="950" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CMA6m18qqvtzgCDZduLw-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;图例：&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="107.5" y="850" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CMA6m18qqvtzgCDZduLw-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;智能分析BI&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b7cffe;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CMA6m18qqvtzgCDZduLw-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;全面预算管理BPC&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b7cffe;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CMA6m18qqvtzgCDZduLw-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b7cffe;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="CMA6m18qqvtzgCDZduLw-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b7cffe;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="860" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CMA6m18qqvtzgCDZduLw-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;新建系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="835" y="865" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMA6m18qqvtzgCDZduLw-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="160" width="830" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CMA6m18qqvtzgCDZduLw-12" value="" style="whiteSpace=wrap;html=1;fontSize=54;fillColor=#ffffff;strokeColor=default;fontColor=#004D99;gradientColor=none;fontStyle=1;rounded=0;strokeWidth=3;" vertex="1" parent="CMA6m18qqvtzgCDZduLw-23">
+          <mxGeometry width="830" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CMA6m18qqvtzgCDZduLw-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;决策管控层&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CMA6m18qqvtzgCDZduLw-23">
+          <mxGeometry y="90" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMA6m18qqvtzgCDZduLw-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;智能分析BI&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b7cffe;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="CMA6m18qqvtzgCDZduLw-23">
+          <mxGeometry x="210" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMA6m18qqvtzgCDZduLw-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;全面预算管理BPC&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b7cffe;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="CMA6m18qqvtzgCDZduLw-23">
+          <mxGeometry x="365" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMA6m18qqvtzgCDZduLw-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b7cffe;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="CMA6m18qqvtzgCDZduLw-23">
+          <mxGeometry x="520" y="20" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
