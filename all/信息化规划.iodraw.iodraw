@@ -58,7 +58,7 @@
         <mxCell id="CMA6m18qqvtzgCDZduLw-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="CMA6m18qqvtzgCDZduLw-23">
           <mxGeometry x="535.6626506024096" y="20" width="123.61445783132531" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CMA6m18qqvtzgCDZduLw-30" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#b7cffe;strokeColor=#6c8ebf;gradientColor=none;" vertex="1" connectable="0" parent="1">
+        <mxCell id="CMA6m18qqvtzgCDZduLw-30" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="142.5" y="475" width="855" height="310" as="geometry" />
         </mxCell>
         <mxCell id="CMA6m18qqvtzgCDZduLw-31" value="" style="whiteSpace=wrap;html=1;fontSize=54;fillColor=#ffffff;strokeColor=default;fontColor=#004D99;gradientColor=none;fontStyle=1;rounded=0;strokeWidth=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="CMA6m18qqvtzgCDZduLw-30">
