@@ -28,10 +28,10 @@
         <mxCell id="CMA6m18qqvtzgCDZduLw-11" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot; face=&quot;微软雅黑&quot;&gt;智能制造&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=17;fontStyle=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="15" y="590" width="95" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CMA6m18qqvtzgCDZduLw-12" value="" style="whiteSpace=wrap;html=1;fontSize=54;fillColor=#ffffff;strokeColor=none;fontColor=#004D99;gradientColor=none;fontStyle=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CMA6m18qqvtzgCDZduLw-12" value="" style="whiteSpace=wrap;html=1;fontSize=54;fillColor=#ffffff;strokeColor=default;fontColor=#004D99;gradientColor=none;fontStyle=1;rounded=0;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="140" y="160" width="830" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="CMA6m18qqvtzgCDZduLw-14" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 22px;&quot;&gt;决策管控层&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CMA6m18qqvtzgCDZduLw-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;决策管控层&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="250" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CMA6m18qqvtzgCDZduLw-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
