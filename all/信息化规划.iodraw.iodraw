@@ -11,10 +11,10 @@
           <mxGeometry x="120" y="110" width="860" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ASaWqVYJWne9iD73W378-1" value="" style="text;html=1;strokeColor=none;fillColor=#61BAFF;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=54;fontStyle=1;fontColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="50" y="170" width="60" height="630" as="geometry" />
+          <mxGeometry x="30" y="170" width="60" height="630" as="geometry" />
         </mxCell>
-        <mxCell id="CMA6m18qqvtzgCDZduLw-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="320" width="60" height="30" as="geometry" />
+        <mxCell id="CMA6m18qqvtzgCDZduLw-4" value="战略目标" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="120" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
