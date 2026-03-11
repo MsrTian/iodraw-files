@@ -25,11 +25,11 @@
         <mxCell id="CMA6m18qqvtzgCDZduLw-8" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;微软雅黑&quot;&gt;提高合同履约率&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;微软雅黑&quot;&gt;快速反应市场&lt;/font&gt;&lt;/p&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="15" y="430" width="95" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="CMA6m18qqvtzgCDZduLw-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;智能制造&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="15" y="610" width="70" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="CMA6m18qqvtzgCDZduLw-10" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;推动可赢利&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;收入增长&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="15" y="210" width="95" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CMA6m18qqvtzgCDZduLw-11" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;实现卓越&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑;&quot;&gt;运营&lt;/span&gt;&lt;span style=&quot;font-family: 微软雅黑;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="590" width="92.5" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
