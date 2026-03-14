@@ -77,10 +77,10 @@
           <mxGeometry x="275" y="82" width="125" height="45.925925925925924" as="geometry" />
         </mxCell>
         <mxCell id="CMA6m18qqvtzgCDZduLw-46" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;采购管理&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="CMA6m18qqvtzgCDZduLw-30" vertex="1">
-          <mxGeometry x="275" y="137" width="125" height="45.925925925925924" as="geometry" />
+          <mxGeometry x="275.5" y="137" width="125" height="45.925925925925924" as="geometry" />
         </mxCell>
         <mxCell id="CMA6m18qqvtzgCDZduLw-47" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;生产管理&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="CMA6m18qqvtzgCDZduLw-30" vertex="1">
-          <mxGeometry x="275" y="192.17962962962957" width="125" height="45.925925925925924" as="geometry" />
+          <mxGeometry x="275.5" y="192.17962962962957" width="125" height="45.925925925925924" as="geometry" />
         </mxCell>
         <mxCell id="CMA6m18qqvtzgCDZduLw-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b7cffe;strokeColor=#666666;fontColor=#333333;" parent="CMA6m18qqvtzgCDZduLw-30" vertex="1">
           <mxGeometry x="460" y="10" width="150" height="290" as="geometry" />
