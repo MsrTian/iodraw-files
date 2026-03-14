@@ -166,7 +166,7 @@
         <mxCell id="oJx0BDIpNDoYK6bxX48A-10" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;信息化基础设施（服务器、存储、网络、物联网）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="15" y="1010" width="1050" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="oJx0BDIpNDoYK6bxX48A-11" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;MDM 主数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=middle;fontSize=30;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="oJx0BDIpNDoYK6bxX48A-11" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;MDM 主数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=middle;fontSize=30;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="1020" y="140" width="60" height="850" as="geometry" />
         </mxCell>
       </root>
