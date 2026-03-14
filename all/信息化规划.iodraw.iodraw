@@ -94,7 +94,7 @@
         <mxCell id="CMA6m18qqvtzgCDZduLw-56" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;财务管理&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="CMA6m18qqvtzgCDZduLw-30" vertex="1">
           <mxGeometry x="275" y="244.99962962962957" width="125" height="45.925925925925924" as="geometry" />
         </mxCell>
-        <mxCell id="oJx0BDIpNDoYK6bxX48A-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CMA6m18qqvtzgCDZduLw-30">
+        <mxCell id="oJx0BDIpNDoYK6bxX48A-1" value="采购寻源与价格管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b7cffe;" vertex="1" parent="CMA6m18qqvtzgCDZduLw-30">
           <mxGeometry x="478.5" y="132" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CMA6m18qqvtzgCDZduLw-36" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1" connectable="0">
