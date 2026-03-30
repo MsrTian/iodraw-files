@@ -140,7 +140,7 @@
           <mxGeometry x="365" y="20" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CMA6m18qqvtzgCDZduLw-41" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;MOM系统&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;仓储、化验、能源、环保、物联、任务管理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b7cffe;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="CMA6m18qqvtzgCDZduLw-36" vertex="1">
-          <mxGeometry x="520" y="20" width="290" height="60" as="geometry" />
+          <mxGeometry x="520" y="20" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CMA6m18qqvtzgCDZduLw-25" value="" style="whiteSpace=wrap;html=1;fontSize=54;fillColor=#ffffff;strokeColor=default;fontColor=#004D99;gradientColor=none;fontStyle=1;rounded=0;strokeWidth=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="145" y="150" width="855" height="150" as="geometry" />
