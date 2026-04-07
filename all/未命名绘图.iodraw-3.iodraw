@@ -10,8 +10,14 @@
         <mxCell id="SJ0oTwCVYvISy-KM4agp-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="100" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SJ0oTwCVYvISy-KM4agp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SJ0oTwCVYvISy-KM4agp-2" target="SJ0oTwCVYvISy-KM4agp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SJ0oTwCVYvISy-KM4agp-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;合同数量减少或价格变更&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="165" y="160" width="270" height="185" as="geometry" />
+          <mxGeometry x="202.5" y="160" width="195" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="SJ0oTwCVYvISy-KM4agp-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
