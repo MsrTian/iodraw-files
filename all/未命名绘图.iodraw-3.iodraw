@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SJ0oTwCVYvISy-KM4agp-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SJ0oTwCVYvISy-KM4agp-1" target="SJ0oTwCVYvISy-KM4agp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SJ0oTwCVYvISy-KM4agp-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SJ0oTwCVYvISy-KM4agp-2" value="合同数量减少或" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="185" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
