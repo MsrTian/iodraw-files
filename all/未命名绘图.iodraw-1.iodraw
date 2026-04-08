@@ -52,7 +52,7 @@
         <mxCell id="_acwIVNzFtuN9sCwUibr-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_acwIVNzFtuN9sCwUibr-1" source="_acwIVNzFtuN9sCwUibr-10" target="_acwIVNzFtuN9sCwUibr-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W7VckGEPsvnIc--XSpTR-19" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;direction=west;" vertex="1" parent="1">
+        <mxCell id="W7VckGEPsvnIc--XSpTR-19" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="570" y="100" width="360" height="250" as="geometry" />
         </mxCell>
         <mxCell id="W7VckGEPsvnIc--XSpTR-20" value="Lane 1" style="swimlane;startSize=20;html=1;" vertex="1" parent="W7VckGEPsvnIc--XSpTR-19">
